@@ -1,0 +1,12 @@
+{
+  "name": "class-work",
+  "version": "1.0.0",
+  "description": "class work",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "yes",
+  "scripts": {
+    "test": "run"
+  }
+}
